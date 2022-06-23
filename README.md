@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Filipp
+- 👀 I’m interested in Web development and crypto technologies
+- 🌱 I know programming languages - Html/css , Js, React, Redux, Next.js , SQL, Solidity, Python
+- 💞️ I will be glad to work with you and share new information
+- 📫 My email - korchagin.filipp15@gmail.com
